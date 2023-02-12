@@ -39,3 +39,6 @@ We are able to achive an accuracy of 88% for PCOS and 80% for diabetes
 
 2- Goto PCOS project and type in the terminal to run the pcos.py by running the code:
 `python pcos.py`
+
+
+![Screenshot of WebPage](/ScreenShots/Screenshot(9).png "ss")
