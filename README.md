@@ -42,4 +42,4 @@ We are able to achive an accuracy of 88% for PCOS and 80% for diabetes
 
 
 <!-- ![Screenshot of WebPage](/ScreenShots/Screenshot (9).png) -->
-<img src="./ScreenShots/Screenshot (9).png">
+<img src="./ScreenShots/Screenshot (9).png" width=200 height=150>
