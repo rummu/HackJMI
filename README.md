@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# For Python Files
+1-goto diabetes_project and type in the terminal to run diabetes.py by running the code:
+`python diabetes.py`
+
+2- Goto PCOS project and type in the terminal to run the pcos.py by running the code:
+`python pcos.py`
