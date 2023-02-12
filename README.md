@@ -42,4 +42,23 @@ We are able to achive an accuracy of 88% for PCOS and 80% for diabetes
 
 
 <!-- ![Screenshot of WebPage](/ScreenShots/Screenshot (9).png) -->
+<img src="./ScreenShots/Screenshot (4).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (5).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (6).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (7).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (8).png" width=600 height=450>
 <img src="./ScreenShots/Screenshot (9).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (10).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (11).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (12).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (13).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (14).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (15).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (16).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (17).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (18).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (19).png" width=600 height=450>
+<img src="./ScreenShots/Screenshot (20).png" width=600 height=450>
+
+
+
