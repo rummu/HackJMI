@@ -1,4 +1,5 @@
-#About Cure
+#Cure
+
 Our mission is to use advanced technology to improve the diagnosis and treatment of patients, and to provide accessible, high-quality healthcare to everyone.
 At Cure, we understand that technology can play a crucial role in improving healthcare outcomes. That's why we have developed a range of machine learning algorithms specifically designed to detect patients and provide healthcare solutions. These algorithms use complex mathematical models and statistical techniques to analyze vast amounts of data and identify patterns that may indicate the presence of various health conditions.
 
@@ -24,11 +25,12 @@ In conclusion, the web application is a cutting-edge project that utilizes the p
 ### Accuracy: 
 We are able to achive an accuracy of 88% for PCOS and 80% for diabetes
 
-#Technology used
-##Framework : React
-##Backened : Flask 
-##Languages : HTML , Python , Javascript
-##Library : Bootstrap , Pandas,Numpy , Sci-kit learn , Pickle , matplotlib , seaborn, StandardScaler, flask_cors ,Threading
+##Technologies used: 
+
+####Frameworks : React
+####Backend : Flask 
+####Languages : HTML, Python, Javascript
+####Libraries : Bootstrap, Pandas, Numpy, Sci-kit learn, Pickle, matplotlib, seaborn, StandardScaler, flask_cors, Threading
 
 # Getting Started with Create React App
 
