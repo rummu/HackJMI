@@ -41,4 +41,4 @@ We are able to achive an accuracy of 88% for PCOS and 80% for diabetes
 `python pcos.py`
 
 
-![Screenshot of WebPage](/ScreenShots/Screenshot (9).png "ss")
+![Screenshot of WebPage](/ScreenShots/Screenshot (10).png "ss")
