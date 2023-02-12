@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+
+  .banner{
+    margin-top: 10px;
+    width: 70%;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text{
+    text-align: start;
+  }
+.b1{
+    margin-bottom: 5%;
+}
+/* b2{
+  margin-bottom: 5%;
+  height: ;
+} */

@@ -1,12 +1,18 @@
 import React from "react";
+import '../css/Navbar.css'
 
 const Navbar = () => {
   return (
   <div>
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
+    <nav className="navbar navbar-expand-lg  my-nav "data-bs-theme="dark">
       <div className="container-fluid">
+      
         <a className="navbar-brand" href="#">
-          Cure
+        <img alt=""
+              src={require('../images/logo.png')}
+              width="100"
+              height="30"
+              className="d-inline-block align-top" />
         </a>
         <button
           className="navbar-toggler"
@@ -19,15 +25,15 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+        <div className="collapse navbar-collapse " id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">
+              <a className="nav-link active" aria-current="page" href="/">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/about">
                 About
               </a>
             </li>
@@ -43,7 +49,7 @@ const Navbar = () => {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/form">
                     Diabetes
                   </a>
                 </li>
@@ -51,15 +57,13 @@ const Navbar = () => {
                   <hr className="dropdown-divider" />
                 </li>
                 <li>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/PCO">
                     PCOS
                   </a>
                 </li>
               </ul>
             </li>
-            <li className="nav-item">
-              <a className="nav-link disabled">Contact</a>
-            </li>
+            
           </ul>
           
         </div>
